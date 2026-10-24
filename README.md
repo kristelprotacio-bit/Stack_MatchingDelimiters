@@ -29,7 +29,7 @@ Displays the stack operations and stack contents during delimiter checking.
 
 README.md
 
-Provides the project description, instructions, sample outputs, and test cases.
+Contains the project description, instructions, sample outputs, and test cases.
 
 How It Works
 
@@ -70,8 +70,6 @@ Invalid Input
 
 Enter a sequence: {[(])}
 Invalid: mismatched delimiters. ']' does not match '(' at the top of the stack.
-
-Note: The displayed invalid message should match the actual message printed by your Java program.
 
 Test Cases
 
